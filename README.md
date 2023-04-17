@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azwanzuharimi
-- 👀 I’m love data science and analytics
-- 🔨 Tools I use: PYTHON/SQL/Google Big Query/MySQL/PostgreSQL/MongoDB
-- 🌱 I’m currently learning AWS
+- I'm a data engineer
+- 🔨 Tools I use: SQL, Python, SSMS, Azure Data Factory, Azure Logic App, Databricks, AWS Athena, AWS S3, Azure DevOps, Azure Data Lake, and more...
+
 
