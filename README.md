@@ -18,6 +18,12 @@ Data engineer in Malaysia. I build pipelines on AWS, Azure, Databricks, and more
 - [omp-claudecode-port-project](https://github.com/azwanzuharimi/omp-claudecode-port-project): context-saving tricks from oh-my-pi, ported to Claude Code with hooks and skills
 
 <p>
-  <img src="./profile/stats.svg" height="165" alt="GitHub stats">
-  <img src="./profile/top-langs.svg" height="165" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img src="./profile/stats.svg" height="170" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img src="./profile/top-langs.svg" height="170" alt="Top languages">
+  </picture>
 </p>
